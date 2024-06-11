@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 .git/
 data/
+!data/.gitkeep
+venv/
