@@ -2,4 +2,7 @@
 .git/
 data/
 !data/.gitkeep
+!data/data.csv
 venv/
+plots/
+plots/.gitkeep
