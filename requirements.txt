@@ -1,0 +1,11 @@
+jupyter 
+notebook 
+ipykernel
+ipython 
+bokeh
+matplotlib
+shapely
+adjustText
+geopy
+geopandas
+colorcet
