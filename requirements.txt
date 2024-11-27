@@ -10,6 +10,11 @@ geopy
 geopandas
 colorcet
 selenium
-requestes_html
+requests_html
 lxml[html_clean]
 PyPDF2
+nltk
+gensim
+tomotopy
+kneed
+wordcloud
